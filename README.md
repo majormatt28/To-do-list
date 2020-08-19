@@ -1,2 +1,2 @@
 # To-do-list
-The more I start to get a better handle on how to properly code the more I update my list. This is only the beginning of my list.If you could offer any advice or tidbits please let me know. Thank you.
+Writing down a list of To-do items I would like to accomplish while updating with new projects to do for myself.
